@@ -1,0 +1,28 @@
+{
+  "Product": [
+    {
+      "id": 2,
+      "name": "Marissa Mayer",
+      "email": "mm@gmail.com",
+      "phone": "25478541254"
+    },
+    {
+      "id": 3,
+      "name": "Eric Schmidt",
+      "email": "es@gmail.com",
+      "phone": "554785669"
+    },
+    {
+      "id": 4,
+      "name": "Andy Hertzfeld",
+      "email": "ah@gmail.com",
+      "phone": "789988"
+    },
+    {
+      "name": "aman vermA",
+      "email": "av@gmail.com",
+      "phone": "789654152",
+      "id": 5
+    }
+  ]
+}
